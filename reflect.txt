@@ -1,0 +1,11 @@
+Final Project
+==================================================
+Name   : Diego Bravo Torres
+ID     : 138350202
+Email  : dbravo-torres@myseneca.ca
+Section: ZAA
+
+For the past month and a half, I've spent around 5-6 hours a week working on this final project. For me this has been a great but challenging exercise in which I learned the basics of object-oriented programming and software development, it was also the first time I worked with C++. As part of the "Software Development Trilogy" at CPP, I felt it was a great transition from IPC144, and a good introduction to classes. This final project ended up being quite robust, now that includes 10 modules, it was a little hard for me to keep track of the functionality of each one of these. Also, having to go back to previously developed classes to fix them was a little overwhelming, the fact that one single error from previous milestones could mess up the entire project is still something that makes me feel anxious.
+
+This assignment was a mix of on-hands development and researching/reviewing on-class and on-line material. Overall, it was a good experience, but I wish we can move back to in-person classes on campus. Although Seneca provides good on-line resources and great professors, I feel that there is some lack of interaction and some limitations when only on-line learning is provided.
+
